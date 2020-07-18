@@ -1,5 +1,5 @@
 import {STORE, UPDATE, DELETE} from './modelActionTypes'; 
-import (initialData) from './initialData'; 
+import {initialData} from './initialData'; 
 
 export default function(storeData, action) {
 	switch (action.type) {

@@ -1,6 +1,6 @@
 import {PRODUCTS, SUPPLIERS} from './dataTypes'; 
 
-export const intialData = {
+export const initialData = {
 	[PRODUCTS]: [
 		{
 			id: 1, 
